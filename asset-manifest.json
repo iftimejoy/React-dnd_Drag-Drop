@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/static/js/main.d3945cdf.chunk.js",
-    "main.js.map": "/static/js/main.d3945cdf.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.3711a48a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.3711a48a.js.map",
-    "static/js/2.a485b87b.chunk.js": "/static/js/2.a485b87b.chunk.js",
-    "static/js/2.a485b87b.chunk.js.map": "/static/js/2.a485b87b.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.e3209800b13f733fc38b590f133347d6.js": "/precache-manifest.e3209800b13f733fc38b590f133347d6.js",
-    "service-worker.js": "/service-worker.js"
+    "main.js": "/React_Drag-Drop/static/js/main.d3945cdf.chunk.js",
+    "main.js.map": "/React_Drag-Drop/static/js/main.d3945cdf.chunk.js.map",
+    "runtime~main.js": "/React_Drag-Drop/static/js/runtime~main.15f29c3e.js",
+    "runtime~main.js.map": "/React_Drag-Drop/static/js/runtime~main.15f29c3e.js.map",
+    "static/js/2.bda1f17c.chunk.js": "/React_Drag-Drop/static/js/2.bda1f17c.chunk.js",
+    "static/js/2.bda1f17c.chunk.js.map": "/React_Drag-Drop/static/js/2.bda1f17c.chunk.js.map",
+    "index.html": "/React_Drag-Drop/index.html",
+    "precache-manifest.d5bd7600e4b3d6ccdbcf519c3afba3f4.js": "/React_Drag-Drop/precache-manifest.d5bd7600e4b3d6ccdbcf519c3afba3f4.js",
+    "service-worker.js": "/React_Drag-Drop/service-worker.js"
   }
 }

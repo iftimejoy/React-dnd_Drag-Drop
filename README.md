@@ -1,4 +1,4 @@
-"_Drag & Drop_"
+_Drag & Drop_
 
 This project was created with React.js, to explain the react-dnd functionality in Drag & Drop creation.
 
